@@ -1,0 +1,14 @@
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\bin\Debug\net7.0-windows\CSharpWinFormsPOS.exe
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\bin\Debug\net7.0-windows\CSharpWinFormsPOS.deps.json
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\bin\Debug\net7.0-windows\CSharpWinFormsPOS.runtimeconfig.json
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\bin\Debug\net7.0-windows\CSharpWinFormsPOS.dll
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\bin\Debug\net7.0-windows\CSharpWinFormsPOS.pdb
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.AssemblyInfoInputs.cache
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.AssemblyInfo.cs
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.csproj.CoreCompileInputs.cache
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.dll
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\refint\CSharpWinFormsPOS.dll
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.pdb
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\CSharpWinFormsPOS.genruntimeconfig.cache
+D:\Projects\AI\ChatBot For RCA\CSharpWinFormsPOS\obj\Debug\net7.0-windows\ref\CSharpWinFormsPOS.dll
